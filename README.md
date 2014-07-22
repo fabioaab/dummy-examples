@@ -1,4 +1,4 @@
-dummi-examples
+dummy-examples
 ==============
 
-Repository created for dummi examples
+Repository created for dummy examples
